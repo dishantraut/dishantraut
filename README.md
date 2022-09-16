@@ -63,12 +63,12 @@ When I'm not writing, you can find me watching videos on youtube, watching sitco
 | ------------- | ------------- |
 
 ## ⚡ Top Repositories
-<a href="https://github.com/dishantraut/YouTube_Series">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dishantraut&repo=YouTube_Series&theme=buefy" />
+<a href="https://github.com/dishantraut/Python_Mini">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dishantraut&repo=Python_Mini&theme=buefy" />
 </a>
-<a href="https://github.com/dishantraut/YouTube_Series">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dishantraut&repo=Docker_public&theme=buefy" />
+<a href="https://github.com/dishantraut/Linux_Mini_Repo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dishantraut&repo=Linux_Mini_Repo&theme=buefy" />
 </a>
 <hr>
-<h3 align="center"> Interested in Collaborating or Donating/Sponsoring My Projects? Click <a href="https://www.facebook.com/groups/171043094400359">here</a> </h3> 
+<h3 align="center"> Interested in Collaborating or Donating/Sponsoring My Projects? Click <a href="https://www.linkedin.com/in/dishant-r-raut-595972178/">here</a> </h3> 
 ****
