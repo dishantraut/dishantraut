@@ -1,5 +1,5 @@
 <h2 align="center">Hello there! My name is Dishant. 👋🤓</h2>
-<p align="center">I'm a Software Engineer and DevOps Engineer from India. TEACHING IS MY PASSION.
+<p align="center">I'm a Software Engineer from India. TEACHING IS MY PASSION.
 Most of the times you see me writing tutorials on various languages like Python/Go/Js, and on DevOps tools like Docker, Kubernetes, Helm, Ansible, Terraform, Jenkins, Git etc.
 When I'm not writing, you can find me watching videos on youtube, watching sitcoms, day dreaming or playing mobile games. Kindly support my YouTube channel https://www.youtube.com/channel/UC7JBtH74_UaaFqYwF85sREQ </p>
 
