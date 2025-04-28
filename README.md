@@ -6,16 +6,17 @@ When I'm not writing, you can find me watching videos on youtube, watching sitco
 
 ## ⚡ Updates
 
+- 🚀 We-IT : We Make IT Happen!<br/>
 - ✨ I love to create Magic with code ✨
 - 💬 Ask me about programming and DevOps!<br/>
 - 🎉 My Quotes :- Implemented_Knowledge === Real_Power
-- 📫 How to reach me: Email: dishantraut@gmail.com<br/>
+- 📫 How to reach me: Email: dishant-raut@we-it.in<br/>
 - 🤔 I’m looking for help with making presentations that help people learn for free<br/>
 - 👯 I’m looking for help with modifying my company site. Any help would be appreciated!<br/>
 - ⚡ Fun fact: I love watching sitcoms and posting videos to my channel https://www.youtube.com/channel/UC7JBtH74_UaaFqYwF85sREQ. Tech & Shopping addict :P<br/>
 
 
-## ⚡ Domains
+## ✅ Domains
 
 - DevOps
 - Web Development
@@ -23,7 +24,7 @@ When I'm not writing, you can find me watching videos on youtube, watching sitco
 - Software Development
 
 
-## ⚡ Tech Stack
+## 🌱 Tech Stack
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
