@@ -1,7 +1,6 @@
 <h2 align="center">Hello there! My name is Dishant. 👋🤓</h2>
-<p align="center">I'm a Software Engineer from India. TEACHING IS MY PASSION.
-Most of the times you see me writing tutorials on various languages like Python/Go/Js, and on DevOps tools like Docker, K8, Helm, Ansible, Terraform, Jenkins, Git etc.
-When I'm not writing, you can find me watching videos on youtube, watching sitcoms, day dreaming or playing mobile games. Kindly support my YouTube channel https://www.youtube.com/channel/UC7JBtH74_UaaFqYwF85sREQ </p>
+<p align="center">I'm a Software Engineer from India.
+Primary Arsenal : Python / Go / Js & DevOps tools like Docker, K8, Helm, Ansible, Terraform, Jenkins, Git etc.
 
 
 ## ⚡ Updates
@@ -11,9 +10,6 @@ When I'm not writing, you can find me watching videos on youtube, watching sitco
 - 💬 Ask me about programming and DevOps!<br/>
 - 🎉 My Quotes :- Implemented_Knowledge === Real_Power
 - 📫 How to reach me: Email: dishant-raut@we-it.in<br/>
-- 🤔 I’m looking for help with making presentations that help people learn for free<br/>
-- 👯 I’m looking for help with modifying my company site. Any help would be appreciated!<br/>
-- ⚡ Fun fact: I love watching sitcoms and posting videos to my channel https://www.youtube.com/channel/UC7JBtH74_UaaFqYwF85sREQ. Tech & Shopping addict :P<br/>
 
 
 ## ✅ Domains
